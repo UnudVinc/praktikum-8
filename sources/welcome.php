@@ -1,5 +1,7 @@
 <?php
-include_once ("./../pages/main.html");
+/**
+ * Welcome page
+ */
 ?>
 
 <!DOCTYPE html>
